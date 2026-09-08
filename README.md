@@ -24,7 +24,7 @@ Arch or Garuda Linux, Python 3.10+, GTK4, PyGObject, Libadwaita, `curl`, and Amn
 
 ## Quick Start
 ```bash
-git clone https://github.com/mrf3ri/AmneziaWG-Nexus.git
+git clone https://github.com/o0mrferi0o/AmneziaWG-Nexus.git
 cd AmneziaWG-Nexus
 chmod +x install.sh uninstall.sh
 ./install.sh
