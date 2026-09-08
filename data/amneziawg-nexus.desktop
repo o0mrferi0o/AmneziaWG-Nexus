@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=AmneziaWG Nexus
+Comment=Modern AmneziaWG VPN Manager
+Exec=/usr/local/bin/amneziawg-nexus
+Icon=amneziawg-nexus
+Terminal=false
+Type=Application
+Categories=Network;VPN;
+StartupNotify=true
