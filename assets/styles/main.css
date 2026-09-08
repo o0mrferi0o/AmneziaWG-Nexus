@@ -1,0 +1,10 @@
+window { background: #10141d; color: #edf1f7; }
+.app-title { font-size: 22px; font-weight: 800; letter-spacing: 1px; }
+.hero { font-size: 34px; font-weight: 750; }
+.section-title { font-size: 12px; font-weight: 800; letter-spacing: 1.1px; color: #a9b5c9; }
+.muted { color: #9ba9bf; }
+.status { font-size: 13px; font-weight: 800; letter-spacing: 1px; }
+.connected { color: #55d6a1; } .connecting, .disconnecting { color: #f0bf61; } .error { color: #ff7373; } .disconnected { color: #9ba9bf; }
+.card { background: #181f2d; border: 1px solid #273247; border-radius: 16px; padding: 20px; }
+.action { min-height: 44px; border-radius: 10px; font-weight: 700; }
+entry { border-radius: 9px; }

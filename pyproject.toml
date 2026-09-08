@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "amneziawg-nexus"
+version = "1.0.0"
+description = "Modern AmneziaWG VPN manager for Linux"
+requires-python = ">=3.10"
+license = {text = "GPL-3.0-or-later"}
+
+[project.scripts]
+amneziawg-nexus = "app.main:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
